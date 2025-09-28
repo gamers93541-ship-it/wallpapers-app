@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "wallpapers": [
+    { "title": "بحر أزرق", "url": "https://username.github.io/wallpapers-app/bg1.jpg" },
+    { "title": "جبلية", "url": "https://username.github.io/wallpapers-app/bg2.jpg" },
+    { "title": "صحراء ذهبية", "url": "https://username.github.io/wallpapers-app/bg3.jpg" },
+    { "title": "غابة خضراء", "url": "https://username.github.io/wallpapers-app/bg4.jpg" },
+    { "title": "سماء ليلية", "url": "https://username.github.io/wallpapers-app/bg5.jpg" },
+    { "title": "نهر هادئ", "url": "https://username.github.io/wallpapers-app/bg6.jpg" },
+    { "title": "شلال", "url": "https://username.github.io/wallpapers-app/bg7.jpg" },
+    { "title": "ورود", "url": "https://username.github.io/wallpapers-app/bg8.jpg" },
+    { "title": "شروق الشمس", "url": "https://username.github.io/wallpapers-app/bg9.jpg" },
+    { "title": "ليلة صحراوية", "url": "https://username.github.io/wallpapers-app/bg10.jpg" }
+  ],
+  "ringtones": [
+    { "title": "نغمة كلاسيكية", "url": "https://username.github.io/wallpapers-app/ring1.mp3" },
+    { "title": "نغمة إيقاعية", "url": "https://username.github.io/wallpapers-app/ring2.mp3" },
+    { "title": "نغمة هادئة", "url": "https://username.github.io/wallpapers-app/ring3.mp3" },
+    { "title": "نغمة إلكترونية", "url": "https://username.github.io/wallpapers-app/ring4.mp3" },
+    { "title": "نغمة عربية", "url": "https://username.github.io/wallpapers-app/ring5.mp3" },
+    { "title": "نغمة قصيرة", "url": "https://username.github.io/wallpapers-app/ring6.mp3" },
+    { "title": "نغمة متقطعة", "url": "https://username.github.io/wallpapers-app/ring7.mp3" },
+    { "title": "نغمة طبيعة", "url": "https://username.github.io/wallpapers-app/ring8.mp3" },
+    { "title": "نغمة ريترو", "url": "https://username.github.io/wallpapers-app/ring9.mp3" },
+    { "title": "نغمة جاز", "url": "https://username.github.io/wallpapers-app/ring10.mp3" }
+  ]
+}
